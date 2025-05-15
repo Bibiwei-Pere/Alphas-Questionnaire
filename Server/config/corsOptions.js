@@ -1,4 +1,4 @@
-const allowedOrigins = ["https://alphas-questionnaire-server.vercel.app", "http://localhost:4000"];
+const allowedOrigins = ["https://alphas-questionnaire.vercel.app", "http://localhost:4000"];
 // const allowedOrigins = ["https://alphas-questionnaire-server.vercel.app", "http://localhost:4000"];
 
 const corsOptions = {
