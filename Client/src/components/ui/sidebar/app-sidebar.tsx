@@ -3,7 +3,6 @@ import * as React from "react";
 import { ChevronsUpDown, LayoutGrid, LogOut } from "lucide-react";
 import { NavMain } from "./nav-main";
 import { Sidebar, SidebarContent, SidebarFooter, SidebarHeader, SidebarRail, useSidebar } from "./sidebar";
-import { useGetUser } from "@/hooks/questionnaire";
 import { SkeletonSidebar } from "../skeleton";
 import { useState } from "react";
 import {
@@ -37,7 +36,6 @@ const data = {
 };
 
 export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
-  const { data: user, status } = useGetUser();
   const [activeNav, setActiveNav] = useState("/dashboard");
   const { isMobile, state, openMobile, setOpenMobile } = useSidebar();
 
@@ -53,18 +51,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         <DropdownMenu>
           <DropdownMenuTrigger asChild>
             <div className='w-full cursor-pointer hover:text-purple-800 h-[50px] flex items-center gap-3 justify-between'>
-              <div className='flex items-center gap-2 flex-wrap'>
-                <Image
-                  src={user?.avatar?.url || "/noavatar.png"}
-                  alt='Avatar'
-                  className='w-[40px] h-[40px] object-cover rounded-full'
-                  width={400}
-                  height={400}
-                />
-                <span className='font-medium'>
-                  {shortenText(`${user?.firstname || ""} ${user?.lastname || ""}`, 14)}
-                </span>
-              </div>
+              <div className='flex items-center gap-2 flex-wrap'></div>
               <ChevronsUpDown className='w-4' />
             </div>
           </DropdownMenuTrigger>
