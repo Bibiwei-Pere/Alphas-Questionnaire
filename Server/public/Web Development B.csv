@@ -1,0 +1,62 @@
+matricNo,firstname,lastname,email,phone,gender,level,department,course_2,course_1
+19/40IL031,Oluwadamilola,Habeeb,19-40il031@students.unilorin.edu.ng,09024808746,Male,500 Level,Department of Common Law,Web Development,
+19/40IL038,Aishah,Eniola,19-40il038@students.unilorin.edu.ng,09020550325,Female,500 Level,Department of Common Law,Web Development,
+19/40IL071,Al-Mubarak,Assayouti,19-40il071@students.unilorin.edu.ng,09021912709,Male,500 Level,Department of Common Law,Web Development,
+20/40IA072,TOLUWANIMI,RUTH,toluwanimiruth@students.unilorin.edu.ng,08106754527,Female,500 Level,Department of Common Law,Web Development,Leadership
+20/40IA078,ABDULHAKEEM,AHMAD,lasacaretakercommittee@students.unilorin.edu.ng,08135893809,Male,500 Level,Department of Common Law,Web Development,
+20/40IA086,ATINUKE,GLORIA,oluwajimiatinuke@students.unilorin.edu.ng,09078019927,Female,500 Level,Department of Common Law,Web Development,
+19/30GR010,Abubakar,Olaosebikan,19-30gr010@students.unilorin.edu.ng,08129208888,Male,500 Level,Department of Computer Engineering,Web Development,
+19/30GR019,Abdulmalik,Olamide,19-30gr019@students.unilorin.edu.ng,08164408811,Male,500 Level,Department of Computer Engineering,Web Development,
+19/30GR024,Ayansola,Clinton,19-30gr024@students.unilorin.edu.ng,09057536350,Male,500 Level,Department of Computer Engineering,Web Development,Leadership
+19/30GR055,Oluwamayowa,Timothy,19-30gr055@students.unilorin.edu.ng,08035445415,Male,500 Level,Department of Computer Engineering,Web Development,Leadership
+19/30GC002,Ufedo-Ojo,Chimaobi,19-30gc002@students.unilorin.edu.ng,08070666743,Male,500 Level,Department of Electrical and Electronics Engineering,Web Development,
+19/30GC013,Toluwanimi,David,19-30gc013@students.unilorin.edu.ng,09033880869,Male,500 Level,Department of Electrical and Electronics Engineering,Web Development,Leadership
+19/30GC021,Abdullateef,Olamide,19-30gc021@students.unilorin.edu.ng,08151259828,Male,500 Level,Department of Electrical and Electronics Engineering,Web Development,Leadership
+19/30GC057,Oghenemuesiri,Victoria,19-30gc057@students.unilorin.edu.ng,09034941403,Female,500 Level,Department of Electrical and Electronics Engineering,Web Development,
+19/30GC071,Eniola,Olamide,19-30gc071@students.unilorin.edu.ng,09032672570,Female,500 Level,Department of Electrical and Electronics Engineering,Web Development,
+19/10AS009,Ibrahim,Oriyomi,19-10as009@students.unilorin.edu.ng,09039124018,Male,500 Level,Department of Forest Resources Management,Web Development,Leadership
+20/10AS065,OLAYANJU,MAZEEDAT,ahmadmazeedat25@students.unilorin.edu.ng,09061681786,Female,500 Level,Department of Forest Resources Management,Web Development,
+19/10AQ024,Patricia,Omolabake,19-10aq024@students.unilorin.edu.ng,08055789265,Female,500 Level,Department of Home Economics and Food Science,Web Development,Leadership
+19/10AQ037,Oluwatosin,Ayomide,19-10aq037@students.unilorin.edu.ng,08103091895,Female,500 Level,Department of Home Economics and Food Science,Web Development,Leadership
+19/10AQ061,Amazing,Obianuju,19-10aq061@students.unilorin.edu.ng,09031658425,Female,500 Level,Department of Home Economics and Food Science,Web Development,Leadership
+19/10AQ081,Princess,Oyinkansola,19-10aq081@students.unilorin.edu.ng,08020997921,Female,500 Level,Department of Home Economics and Food Science,Web Development,
+19/10AQ102,Hameedat,Oluwabukola,19-10aq102@students.unilorin.edu.ng,07036575951,Female,500 Level,Department of Home Economics and Food Science,Web Development,Leadership
+19/10AQ111,Divine,Favour,19-10aq111@students.unilorin.edu.ng,07066966432,Female,500 Level,Department of Home Economics and Food Science,Web Development,Leadership
+19/10AQ121,Praise,Ayomide,19-10aq121@students.unilorin.edu.ng,08163771976,Male,500 Level,Department of Home Economics and Food Science,Web Development,Leadership
+19/48LM018,Omotolani,Victoria,19-48lm018@students.unilorin.edu.ng,09075051908,Female,500 Level,Department of Home Economics and Food Science,Web Development,Leadership
+19/30GN032,Fatima,Moyosore,19-30gn032@students.unilorin.edu.ng,08137338751,Female,500 Level,Department of Materials & Metallurgical Engineering,Web Development,
+19/30GN037,Desmond,Ikenna,19-30gn037@students.unilorin.edu.ng,08069419444,Male,500 Level,Department of Materials & Metallurgical Engineering,Web Development,Leadership
+19/30GN043,Taofeek,Olayinka,19-30gn043@students.unilorin.edu.ng,08183462045,Male,500 Level,Department of Materials & Metallurgical Engineering,Web Development,
+19/30GD028,James,Oluwamayowa,19-30gd028@students.unilorin.edu.ng,09057912592,Male,500 Level,Department of Mechanical Engineering,Web Development,
+19/30GD034,Korede,Muhammed,19-30gd034@students.unilorin.edu.ng,08080990442,Male,500 Level,Department of Mechanical Engineering,Web Development,
+19/30GD048,Olamide,Uthman,19-30gd048@students.unilorin.edu.ng,09130786031,Male,500 Level,Department of Mechanical Engineering,Web Development,
+19/30GD067,Folajimi,Joseph,19-30gd067@students.unilorin.edu.ng,07065903185,Male,500 Level,Department of Mechanical Engineering,Web Development,
+19/30GD090,Hajarat,Ovayoza,19-30gd090@students.unilorin.edu.ng,09030949067,Female,500 Level,Department of Mechanical Engineering,Web Development,
+20/30GD093,MUEEZ,OLUWASEUN,babalolamueez@students.unilorin.edu.ng,08148504269,Male,500 Level,Department of Mechanical Engineering,Web Development,
+19/46PW009,Aishat,Adedamola,19-46pw009@students.unilorin.edu.ng,08143613590,Female,500 Level,Department of Medical Laboratory Science,Web Development,Leadership
+19/46PW034,Fuad,Olamilekan,19-46pw034@students.unilorin.edu.ng,09072922778,Male,500 Level,Department of Medical Laboratory Science,Web Development,Leadership
+19/46PW066,Mercy,Adeola,19-46pw066@students.unilorin.edu.ng,08151615956,Female,500 Level,Department of Medical Laboratory Science,Web Development,Leadership
+20/46PW105,KEHINDE,SHAKIRAT,salamikehindeshakirat@students.unilorin.edu.ng,08153209181,Female,500 Level,Department of Medical Laboratory Science,Web Development,Leadership
+20/46PW106,JAMIU,BABATUNDE,jbabatunde45@students.unilorin.edu.ng,08023451173,Male,500 Level,Department of Medical Laboratory Science,Web Development,
+19/48LM083,Salamah,Omobolanle,19-48lm083@students.unilorin.edu.ng,07068513610,Female,500 Level,Department of Nursing,Web Development,Leadership
+18/55EI087,Pleasant,Ayomikun,elujidepleasant@students.unilorin.edu.ng,08094274902,Female,500 Level,Department of Pharmacy,Web Development,
+19/31QS007,Lukman,Adekunle,19-31qs007@students.unilorin.edu.ng,09032688850,Male,500 Level,Department of Quantity Surveying,Web Development,Leadership
+19/31QS034,Olayiwola,Habeeb,19-31qs034@students.unilorin.edu.ng,08157170976,Male,500 Level,Department of Quantity Surveying,Web Development,
+19/31QS044,Akeem,Adesina,19-31qs044@students.unilorin.edu.ng,07053439372,Male,500 Level,Department of Quantity Surveying,Web Development,Leadership
+19/31QU001,Abdullahi,Olaitan,abdullahiabdullahi7082@gmail.com,08100718893,Male,500 Level,Department of Urban and Regional Planning,Web Development,
+19/31QU029,Mustapha,Enesi,19-31qu029@students.unilorin.edu.ng,07069642540,Male,500 Level,Department of Urban and Regional Planning,Web Development,
+19/30GQ007,Toluwalope,Judah,19-30gq007@students.unilorin.edu.ng,08156046960,Male,500 Level,Department of Water Resources and Environmental Engineering,Web Development,
+20/30GQ085,Joseph,Herald,chijioke@students.unilorin.edu.ng,09071030270,Male,500 Level,Department of Water Resources and Environmental Engineering,Web Development,
+18/55DZ045,Mercy,Akpadiaha,mercylazarus@students.unilorin.edu.ng,09071371732,Female,600 Level,Department of Optometry and Vision Science,Web Development,
+18/32TA008,Idris,Adewale,18-32ta008@students.unilorin.edu.ng,08068997442,Male,600 Level,Department of Veterinary Medicine,Web Development,Leadership
+18/48KC110,Nahimah,Opeyemi,naheematidris@students.unilorin.edu.ng,08164075542,Female,600 Level,Department of Veterinary Medicine,Web Development,Leadership
+19/10AS039,Mulikat,Muhammed,19-10as039@students.unilorin.edu.ng,07081739416,Female,500 Level,Department of Forest Resources Management,Web Development,Leadership
+19/10AC365,Feyisayo,Fathia,19-10ac365@students.unilorin.edu.ng,07061081911,Female,500 Level,Department of Agriculture,Web Development,Leadership
+20/31QE021,KAREEMAT,BASHIR,bashirkareemat@students.unilorin.edu.ng,08145151727,Female,500 Level,Department of Estate Management,Web Development,
+20/25OW059,Tolulope,Ayomide,toluwalopeakindele65@students.unilorin.edu.ng,08167199475,Female,400 Level,Department of Arts Education,Web Development,
+20/55EI072,Aminah,Ibrahim,ibrahimaminah331@students.unilorin.edu.ng,09049469311,Female,400 Level,Department of Plant Biology,Web Development,
+20/25OW063,Praise,Iyinoluwa,anifowoshe@students.unilorin.edu.ng,08151183413,Male,400 Level,Department of Arts Education,Web Development,
+20/55EJ145,Sofiat,Kola-Afolabi,kola-afolabi.s@students.unilorin.edu.ng,7054101222,Female,400 Level,Department of Microbiology,Web Development,
+20/77JF178,Blessing,Orinya,orinyablessing89@students.unilorin.edu.ng,09079585582,Female,400 Level,Department of Social Work,Web Development,
+20/10AB100,SHERIFFDEEN,OMOTOLANI,afolahansheriffdeen@students.unilorin.edu.ng,08072889916,Male,500 Level,Department of Aquaculture and Fisheries,Web Development,Leadership
+20/56FJ041,Gideon,Stephen,gideonstephen894@students.unilorin.edu.ng,8062820053,Male,400 Level,Department of Geophysics,Web Development,Leadership

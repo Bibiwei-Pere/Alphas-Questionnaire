@@ -1,0 +1,400 @@
+matricNo,firstname,lastname,email,phone,gender,level,department,course_1,course_2
+21/15CE011,Tomisin,Adediwura,adeduntantomisin@students.unilorin.edu.ng,08104666527,Female,400 Level,Department of French,Leadership,
+20/77JB008,Mercy,Ayomide,21203656ba@students.unilorin.edu.ng,07050931363,Female,400 Level,Department of Geography and Environmental Management,Leadership,
+20/77JB010,Habeeb,Olawale,aderibigbehabeeb@students.unilorin.edu.ng,09072134446,Male,400 Level,Department of Geography and Environmental Management,Leadership,
+20/77JB015,Odunayo,Mary,odunayo+2@students.unilorin.edu.ng,09092030783,Female,400 Level,Department of Geography and Environmental Management,Leadership,
+20/77JB038,Marvellous,Emmanuel,marvellous+1@students.unilorin.edu.ng,07036246840,Male,400 Level,Department of Geography and Environmental Management,Leadership,
+19/56EA001,Kareem,Taoheed,19-56ea001@students.unilorin.edu.ng,08135139259,Male,400 Level,Department of Geology,Leadership,Web Development
+19/56EA049,Fadilulah,Olalekan,19-56ea049@students.unilorin.edu.ng,08131356504,Male,400 Level,Department of Geology,Leadership,
+20/56EA008,Samson,Oluwatobiloba,samsonadegoke42@students.unilorin.edu.ng,07082098035,Male,400 Level,Department of Geology,Leadership,
+20/56EA019,Samuel,Damilola,ajibolasamuel10@students.unilorin.edu.ng,08081606455,Male,400 Level,Department of Geology,Leadership,
+20/56EA026,Peace,Boluwatife,amao4boluwatife@students.unilorin.edu.ng,08103642173,Male,400 Level,Department of Geology,Leadership,
+20/56EA048,Nathaniel,Ochowoche,musanathamiel@gmail.com,07030544664,Male,400 Level,Department of Geology,Leadership,
+20/56EA052,Oluwatomiwa,Mayowa,tomiwaojo@students.unilorin.edu.ng,07012902314,Male,400 Level,Department of Geology,Leadership,
+20/56EA073,Ibrahim,Olasunkanmi,salman.io@students.unilorin.edu.ng,2+08066219959,Male,400 Level,Department of Geology,Leadership,
+21/56EA064,OLUWATOYOSI,MATTHEW,adebayo+15@students.unilorin.edu.ng,09018863314,Male,400 Level,Department of Geology,Leadership,
+21/56EA074,EVANS,TAIWO,oladimejievans@students.unilorin.edu.ng,09035228230,Male,400 Level,Department of Geology,Leadership,
+20/56FJ001,Abdulhakeem,Omotola,hakeem@students.unilorin.edu.ng,08087285707,Male,400 Level,Department of Geophysics,Leadership,
+20/56FJ011,Semiu,Taiwo,aratumisemiu@students.unilorin.edu.ng,08021346951,Male,400 Level,Department of Geophysics,Leadership,
+20/56FJ024,Yusuf,Opeyemi,21444103jf@students.unilorin.edu.ng,07016605797,Male,400 Level,Department of Geophysics,Leadership,
+20/56FJ030,Sodiq,Ayobami,21281770ia@students.unilorin.edu.ng,09049919527,Male,400 Level,Department of Geophysics,Leadership,
+18/25PF002,Bashirat,Jiddah,jiddahbasirah@gmail.com,09073122737,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP004,Bushra,Temitope,20-25op004@students.unilorin.edu.ng,09072869691,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP008,Monsurat,Bidemi,21223864fa@students.unilorin.edu.ng,09072301232,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP014,James,Aduragbemi,aduragbemi+2@students.unilorin.edu.ng,07026824921,Male,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP019,Elizabeth,Jesutofunmi,aelizabethjesutofunmi@gmail.com,09038252162,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,Graphic Design
+20/25OP043,Temitope,Abigeal,agunbiadetemitope@students.unilorin.edu.ng,08029946543,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,Web Development
+20/25OP044,Lutfah,Oyeolohun,lutfahahmad17@students.unilorin.edu.ng,07085777919,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP063,Azeezat,Omotoke,azeezatalabi2019@gmail.com,09010897534,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP078,Tohirah,Adesusiola,ashirumorenikeji@students.unilorin.edu.ng,08081925154,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP080,Kehinde,Hassanat,20-25op080@students.unilorin.edu.ng,08050917618,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP085,Olamide,Fathia,isholaolamide57@gmail.com,07014809284,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP088,Afeezat,Ayoade,bakreafeezat2030@gmail.com,09157566146,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP102,Benjamin,Oluwaseun,benjaminoluwaseun2000@gmail.com,07057066861,Male,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP104,Goodness,Titilayo,folayangoodness@gmail.com,07034738473,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP120,Aishat,Eniola,21228914ha@students.unilorin.edu.ng,09015112014,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP124,Elijah,Remilekun,remmy9755@students.unilorin.edu.ng,08165232700,Male,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP140,Nafisah,Damilola,muritadahnafisah@gmail.com,08029582019,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,Graphic Design
+20/25OP144,Light,Kehinde,kenlight102@students.unilorin.edu.ng,07016537425,Male,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP154,Amirat,Ayomide,amiratayomide40@students.unilorin.edu.ng,08088600280,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP163,Suaebat,Adenike,oloyesuaebat07@gmail.com,08024409778,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,Graphic Design
+20/25OP182,Taiwo,Doyinsola,oyedepodoyinsola06@gmail.com,08092230699,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP187,Aishat,Tolani,aishat10745@gmail.com,09038445616,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP190,Fathiat,Ajokeade,adejokefashionempire@gmail.com,07088343479,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/25OP200,Khairat,Ojuolape,sulymankhairat@students.unilorin.edu.ng,08096114419,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+21/25OP099,OLUSHOLA,SAMUEL,shinorway@gmail.com,07063473550,Male,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,Graphic Design
+21/25OP109,TOLANI,ROKIBAT,tolanirokibat@students.unilorin.edu.ng,09056502487,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+21/25OP110,Oluwaseun,Mopelola,oluwaseun+7@students.unilorin.edu.ng,08137744439,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,Graphic Design
+21/25OP118,ALABA,DAVID,davidalabs@gmail.com,08060232249,Male,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+21/25OP130,Racheal,Adaeze,nickyybella19@gmail.com,09017924672,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,Graphic Design
+21/25OP138,IFAFAWOKE,OMOJUWA,idowuifafawoke@gmail.com,09051952799,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+21/25OP142,LOVETH,CHINWENDU,jloveth533@gmail.com,07060447199,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+21/25OP157,RUTH,AYOMIPOSI,ruthogunshola66@gmail.com,09067365072,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+21/25OP166,PRECIOUS,IDUNNU,peaceolawale28@gmail.com,09026558884,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,Graphic Design
+21/25OP178,JANET,IYANGBE,janet+6@students.unilorin.edu.ng,08078057946,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+21/25OP184,SAUDAT,DAMILOLA,salmandamilolasaidat@gmail.com,09032145403,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,Web Development
+21/25OP189,PELUMI,ABIGAIL,showunmipelumi311@gmail.com,09048709863,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+21/25OP191,BALIKIS,OBA,sulymanbalikis56@students.unilorin.edu.ng,08094908716,Female,400 Level,Department of Health Promotion and Environmental Health Education,Leadership,
+20/15CA001,Ibrahim,Oladimeji,ibrobass123@students.unilorin.edu.ng,08038884946,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA009,Mubaraq,Shola,abdulkareemmubara@students.unilorin.edu.ng,07038826840,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA024,Deborah,Ayomide,abiodundebby16@students.unilorin.edu.ng,07017837123,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA025,A,Olamilekan,abolajiabdulquadir73@students.unilorin.edu.ng,07019633008,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA037,Suliha,Adenike,adedejizulaykha@students.unilorin.edu.ng,08142822050,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA055,Olamilekan,Moses,funminiyiadeyemi@students.unilorin.edu.ng,09069019611,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA057,Toluwase,Kezia,toluwase@students.unilorin.edu.ng,08100398688,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA058,Elizabeth,Omolara,afolabi@students.unilorin.edu.ng,08148015844,Female,400 Level,Department of History & International Studies,Leadership,Web Development
+20/15CA065,Babatunde,Ahmed,babatee9999@students.unilorin.edu.ng,08083524209,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA080,Darasimi,Jonathan,jonathandarasimi@students.unilorin.edu.ng,09028084069,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA087,Mhabubat,Pamilerin,mhabubatalarape1@students.unilorin.edu.ng,09030698456,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA111,Boluwatife,Fatihat,ayinlaboluwatife2020@students.unilorin.edu.ng,08168447368,Female,400 Level,Department of History & International Studies,Leadership,Graphic Design
+20/15CA129,Fathia,Abidemi,busarifathia15@students.unilorin.edu.ng,09071613972,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA130,Muhammed,Mahmud,muhammedcisse@students.unilorin.edu.ng,08027934495,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA142,Israel,Damilola,israelemmanuel202die@students.unilorin.edu.ng,08034837998,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA150,Titilayo,Sadiat,titilayo014@students.unilorin.edu.ng,08168974901,Female,400 Level,Department of History & International Studies,Leadership,Graphic Design
+20/15CA176,Ibrahim,Muhammed,kaba-38@students.unilorin.edu.ng,09061315472,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA178,Mustapha,Adewale.,mustaphaadewale2001@students.unilorin.edu.ng,07038815665,Male,400 Level,Department of History & International Studies,Leadership,Graphic Design
+20/15CA180,Modupeola,Sumayah,sumayahkolawole@students.unilorin.edu.ng,08100768609,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA186,Eniola,Evelyn,lawaleniolaevelyn@students.unilorin.edu.ng,09027723646,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA200,Success,Nkem,successnduka2@students.unilorin.edu.ng,08084899554,Female,400 Level,Department of History & International Studies,Leadership,Graphic Design
+20/15CA218,Eniola,Festus,okanlawoneniola11@students.unilorin.edu.ng,09079651391,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA222,Alexander,Ejeh,makojiokwoli1@students.unilorin.edu.ng,08104665629,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA224,Aisha,Adeola,aolajide808@students.unilorin.edu.ng,09061553226,Female,400 Level,Department of History & International Studies,Leadership,Graphic Design
+20/15CA244,Eniola,Adenike,omisoremayowa@students.unilorin.edu.ng,08058595172,Female,400 Level,Department of History & International Studies,Leadership,Graphic Design
+20/15CA249,Kabeerah,Mustapha,oniyangikabeerah@students.unilorin.edu.ng,08071522353,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA256,Eniola,Mary,eniolaowoade5@students.unilorin.edu.ng,09024426363,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA264,Ifeoluwa,Simileoluwa,oyeniyi@students.unilorin.edu.ng,07063985924,Female,400 Level,Department of History & International Studies,Leadership,
+20/15CA273,Temidayo,Fahd,saheedtemidayo92@students.unilorin.edu.ng,08032807403,Male,400 Level,Department of History & International Studies,Leadership,
+20/15CA275,Roqeebat,Omowunmi,salam@students.unilorin.edu.ng,09055775667,Female,400 Level,Department of History & International Studies,Leadership,Web Development
+21/15CA347,Islamiyah,Modupeoluwa,islamiyahg@students.unilorin.edu.ng,07032989527,Female,400 Level,Department of History & International Studies,Leadership,
+21/15CA351,OLUWADAMILOLA,FEBISOLA,24fd@students.unilorin.edu.ng,08149708261,Female,400 Level,Department of History & International Studies,Leadership,
+21/15CA361,Racheal,Olamide,alabirachael@students.unilorin.edu.ng,09042970850,Female,400 Level,Department of History & International Studies,Leadership,Web Development
+21/15CA367,BLESSING,CHIMAMANDA,blessingchukwuma655@students.unilorin.edu.ng,08134716908,Female,400 Level,Department of History & International Studies,Leadership,
+21/15CA374,Umar,Ayomide,lawalumar@students.unilorin.edu.ng,09067759681,Male,400 Level,Department of History & International Studies,Leadership,
+21/15CA394,ABDULMUIZ,OLAMIDE,olamide+8@students.unilorin.edu.ng,08156155923,Male,400 Level,Department of History & International Studies,Leadership,Graphic Design
+20/10AR003,Roqeebah,Omotola,abdulhameed.ro@students.unilorin.edu.ng,08134237379,Female,400 Level,Department of Home Economics and Food Science,Leadership,Graphic Design
+20/10AR017,Ayotomiwa,Oluwafunmito,adebola.ao@students.unilorin.edu.ng,09063916030,Female,400 Level,Department of Home Economics and Food Science,Leadership,Graphic Design
+20/10AR026,Yosola,Kafayat,omoyosola10@gmail.com,08071633634,Female,400 Level,Department of Home Economics and Food Science,Leadership,Graphic Design
+20/10AR038,Deborah,Oluwatosin,20-10ar038@students.unilorin.edu.ng,08107020207,Female,400 Level,Department of Home Economics and Food Science,Leadership,Web Development
+20/10AR052,Hannah,Temitope,augustinehannah12@gmail.com,07013872854,Female,400 Level,Department of Home Economics and Food Science,Leadership,Graphic Design
+20/10AR065,Yemisi,Bamidele,fatade.yb@students.unilorin.edu.ng,07087915906,Female,400 Level,Department of Home Economics and Food Science,Leadership,Web Development
+20/10AR066,Maryam,Oladimeji,20-10ar066@students.unilorin.edu.ng,08064867864,Female,400 Level,Department of Home Economics and Food Science,Leadership,
+20/10AR075,Morireoluwa,Bolanle,iyiolamorireoluwa@students.unilorin.edu.ng,08146210941,Female,400 Level,Department of Home Economics and Food Science,Leadership,Web Development
+20/10AR078,Mariam,Adewumi,kosemanimariam9@gmail.com,09068883828,Female,400 Level,Department of Home Economics and Food Science,Leadership,Graphic Design
+20/10AR090,Favour,Janet,oboh.fj@students.unilorin.edu.ng,07087862964,Female,400 Level,Department of Home Economics and Food Science,Leadership,Graphic Design
+20/10AR104,Ruth,Omobolanle,omobolaolalekan11@gmail.com,08023976784,Female,400 Level,Department of Home Economics and Food Science,Leadership,Web Development
+20/10AR116,Tolulope,Mercy,tolulopemercyomojola@gmail.com,09072085318,Female,400 Level,Department of Home Economics and Food Science,Leadership,Graphic Design
+20/10AR132,Zainab,Ajibola,20-10ar132@students.unilorin.edu.ng,09082286903,Female,400 Level,Department of Home Economics and Food Science,Leadership,Graphic Design
+21/10AR065,JOY,OFFOR,ekwejoy@students.unilorin.edu.ng,08102667108,Female,400 Level,Department of Home Economics and Food Science,Leadership,Graphic Design
+21/10AR077,FAITH,NKECHI,faith+11@students.unilorin.edu.ng,08100266620,Female,400 Level,Department of Home Economics and Food Science,Leadership,Web Development
+17/52HP082,Clifford,Olufisayo,oludarecliffordd@students.unilorin.edu.ng,09039033590,Male,400 Level,Department of Human Kinetics Education,Leadership,Graphic Design
+20/25OA001,Haneesah,Opemipo,haneesahabdrauff@students.unilorin.edu.ng,07012970593,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA009,Abdulrahaman,Opeyemi,opeyemiabdulrahaman813@gmail.com,07062070039,Male,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA020,Dunmininu,Sarah,20-25oa020@students.unilorin.edu.ng,09018268702,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA029,Adedoyin,Aminat,adedoyinadeoye@students.unilorin.edu.ng,08130515896,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA049,Anuoluwapo,Ajoke,anuoluwapo+2@students.unilorin.edu.ng,08134940421,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA050,Theophilus,Oluwboriogun,akintola-theophilus@students.unilorin.edu.ng,09025057379,Male,400 Level,Department of Human Kinetics Education,Leadership,Web Development
+20/25OA060,Inioluwa,Adetomilola,aremuayodeji68@students.unilorin.edu.ng,09016750696,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA073,Kehinde,Damilola,bakarekehindedamilola01@students.unilorin.edu.ng,08126226145,Male,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA085,Suliat,Temitope,20-25oa085@students.unilorin.edu.ng,09026644532,Female,400 Level,Department of Human Kinetics Education,Leadership,Web Development
+20/25OA094,Highness,Olapeju,20-25oa094@students.unilorin.edu.ng,08152587911,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA095,Grace,Temitope,emiolagrace051@gmail.com,08128715409,Female,400 Level,Department of Human Kinetics Education,Leadership,Graphic Design
+20/25OA097,Prosper,Ifoghale,emogheneprosper2@students.unilorin.edu.ng,09033111476,Male,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA108,Philip,Oluwatunmise,ibitadephilip@students.unilorin.edu.ng,08137118437,Male,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA116,Islamiyah,Abike,islamiyahidowu145@students.unilorin.edu.ng,08159707283,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA125,Kofoworola,Azeezat,20-25oa125@students.unilorin.edu.ng,09079155610,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA133,Yahaya,Olohuntoyin,kayodeyahaya22@gmail.com,09067811228,Male,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA142,Habeeb,Olamilekan,olamilekanmansur@students.unilorin.edu.ng,09024399150,Male,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA145,Olasunkanmi,Mohammed,joromilk79@gmail.com,08133584727,Male,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA155,Obanijesu,Oluwaseun,ojooluwaseun@students.unilorin.edu.ng,07038721292,Male,400 Level,Department of Human Kinetics Education,Leadership,Graphic Design
+20/25OA161,Chiamaka,Precious,20-25oa161@students.unilorin.edu.ng,07060945304,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA189,Joshua,Sunkanmi,omotayoj81@students.unilorin.edu.ng,08162881390,Male,400 Level,Department of Human Kinetics Education,Leadership,Graphic Design
+20/25OA190,Barnabas,Omobolaji,20-25oa190@students.unilorin.edu.ng,09030951754,Male,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA194,Abdulkabeer,Olawale,abdulkabeer@students.unilorin.edu.ng,08139491404,Male,400 Level,Department of Human Kinetics Education,Leadership,Web Development
+20/25OA198,Temitope,Sekinat,owolabitemitope@students.unilorin.edu.ng,08102925578,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA220,Mariam,Abidemi,20-25oa220@students.unilorin.edu.ng,07011291544,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA227,Ashiat,Arike,20-25oa227@students.unilorin.edu.ng,08137898250,Female,400 Level,Department of Human Kinetics Education,Leadership,
+20/25OA235,Lukmon,Bolaji,tbolajy@students.unilorin.edu.ng,08113665635,Male,400 Level,Department of Human Kinetics Education,Leadership,Web Development
+20/25OA245,Aminat,Omolola,yusufaminat@students.unilorin.edu.ng,08108455778,Female,400 Level,Department of Human Kinetics Education,Leadership,
+21/25OA132,TEMILADE,HELEN,temilade+3@students.unilorin.edu.ng,08052037336,Female,400 Level,Department of Human Kinetics Education,Leadership,
+21/25OA139,Idayah,Ajoke,ibrahimidayah@gmail.com,08135122759,Female,400 Level,Department of Human Kinetics Education,Leadership,
+21/25OA143,ESTHER,AJUMA,esthermatthew414@students.unilorin.edu.ng,08142492208,Female,400 Level,Department of Human Kinetics Education,Leadership,
+21/25OA151,BUNMI,HANNAH,bunmi4224@gmail.com,09032789108,Female,400 Level,Department of Human Kinetics Education,Leadership,Graphic Design
+20/56EF004,Abigail,Wuraola,adetubowuraola@students.unilorin.edu.ng,09034470617,Female,400 Level,Department of Industrial Chemistry,Leadership,Web Development
+20/56EF020,Abdulahmeed,Aremu,hamzabathman@students.unilorin.edu.ng,08066696305,Male,400 Level,Department of Industrial Chemistry,Leadership,
+20/56EF029,Bolatito,Zainab,aboladebolatito@students.unilorin.edu.ng,08145526885,Female,400 Level,Department of Industrial Chemistry,Leadership,Web Development
+20/56EF042,Ameerah,Ayobami,rajiameerah7@students.unilorin.edu.ng,08034916148,Female,400 Level,Department of Industrial Chemistry,Leadership,Web Development
+20/56EF046,Daniel,Oluwajuwonlo,oluwajuwonlo281@students.unilorin.edu.ng,07052514496,Male,400 Level,Department of Industrial Chemistry,Leadership,
+20/66RP010,Olamide,Samuel,olamidesamuel414@students.unilorin.edu.ng,08112276855,Male,400 Level,Department of Industrial Relations and Personnel Management,Leadership,
+20/66RP011,Justina,Jesusetemipe,adeboye+3@students.unilorin.edu.ng,08127930657,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,Graphic Design
+20/66RP030,Tofunmi,Ayomide,ayomidetofunmiarowoduye@students.unilorin.edu.ng,09034292763,Male,400 Level,Department of Industrial Relations and Personnel Management,Leadership,Graphic Design
+20/66RP045,Boluwatife,Precious,faladefunmilayo@students.unilorin.edu.ng,08027149653,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,Graphic Design
+20/66RP051,Barakat,Oluwatoyin,idiagbon@students.unilorin.edu.ng,08163213672,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,Graphic Design
+20/66RP068,Seyifunmi,Oyindamola,hoyindhamolarsheyi@students.unilorin.edu.ng,09026988468,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,Web Development
+20/66RP082,Zainab,Tomiwa,homorhtomywah@students.unilorin.edu.ng,08083006263,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,Graphic Design
+20/66RP085,Rokibat,Omolara,oloworokibat@students.unilorin.edu.ng,09078841657,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,
+20/66RP098,Ayisat,Moyosore,salamiaisha48@students.unilorin.edu.ng,08155384613,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,Web Development
+21/66RP184,OLUWATOSIN,OLAJUMOKE,fabuloust1604@gmail.com,09060831839,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,Graphic Design
+21/66RP185,OLABODE,RICHARD,bode@students.unilorin.edu.ng,08115585589,Male,400 Level,Department of Industrial Relations and Personnel Management,Leadership,
+21/66RP187,ZAINAB,BOLANLE,ibrahim.zb@students.unilorin.edu.ng,07062055817,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,
+21/66RP190,CONFIDENCE,OMEYIE,kadiriconfidennce1@students.unilorin.edu.ng,07054769603,Female,400 Level,Department of Industrial Relations and Personnel Management,Leadership,Graphic Design
+21/66RP192,Ramadan,Damilare,ramadanmayeloye1@students.unilorin.edu.ng,08144422933,Male,400 Level,Department of Industrial Relations and Personnel Management,Leadership,
+20/52HL005,Esther,Olayinka,abiodunesther@students.unilorin.edu.ng,08123090304,Female,400 Level,Department of Information Technology,Leadership,Web Development
+20/52HL025,Joy,Ayomikun,akindele2004.@students.unilorin.edu.ng,07011655499,Female,400 Level,Department of Information Technology,Leadership,Web Development
+20/52HL039,David,Ajibola,david+8@students.unilorin.edu.ng,08056855258,Male,400 Level,Department of Information Technology,Leadership,Web Development
+20/52HL059,Babatunde,Israel,israelibeun47@students.unilorin.edu.ng,08134605289,Male,400 Level,Department of Information Technology,Leadership,
+20/52HL060,Abdulrahman,Eniola,ibrahimabdulraman@students.unilorin.edu.ng,08066067528,Male,400 Level,Department of Information Technology,Leadership,Web Development
+20/52HL072,Uthman,Iremide,kayode+6@students.unilorin.edu.ng,07030998592,Male,400 Level,Department of Information Technology,Leadership,Web Development
+20/52HL076,Sulaimon,Ajadi,lawal+12@students.unilorin.edu.ng,09049080252,Male,400 Level,Department of Information Technology,Leadership,
+20/52HL085,Opeyemi,Muyees,olabooyeo@students.unilorin.edu.ng,09025080671,Male,400 Level,Department of Information Technology,Leadership,Graphic Design
+20/52HL098,Kareemah,Titilayo,olosasak@students.unilorin.edu.ng,08108917467,Female,400 Level,Department of Information Technology,Leadership,Graphic Design
+20/52HL109,Daniel,Inioluwa,danieloyetayo@students.unilorin.edu.ng,09061589455,Male,400 Level,Department of Information Technology,Leadership,Graphic Design
+21/52HL160,ONYINYE,KAMHARIDA,onyinye.k.ugwuoke@students.unilorin.edu.ng,08114982466,Female,400 Level,Department of Information Technology,Leadership,Graphic Design
+19/52HJ052,Kelechi,Gabriel,19-52hj052@students.unilorin.edu.ng,07063373085,Male,400 Level,Department of Library and Information Science,Leadership,
+20/52HJ011,Oluwadamilola,Adenrele,damilola+11@students.unilorin.edu.ng,09091213788,Female,400 Level,Department of Library and Information Science,Leadership,
+20/52HJ025,Rafiu,Bukola,akanorafiu88@students.unilorin.edu.ng,08020768132,Male,400 Level,Department of Library and Information Science,Leadership,
+20/52HJ032,Jubril,Koro,jeekoro@students.unilorin.edu.ng,08029360623,Male,400 Level,Department of Library and Information Science,Leadership,
+20/52HJ060,Peter,Sunday,20-52hj060@students.unilorin.edu.ng,09021194285,Male,400 Level,Department of Library and Information Science,Leadership,Graphic Design
+20/52HJ063,Elizabeth,Oluwakemi,kemikomo17@students.unilorin.edu.ng,09067709113,Female,400 Level,Department of Library and Information Science,Leadership,Graphic Design
+20/52HJ074,Ayobami,Daniel,olakiayobami25@students.unilorin.edu.ng,08169763886,Male,400 Level,Department of Library and Information Science,Leadership,
+20/52HJ084,Alameen,Abdulqadir,20-52hj084@students.unilorin.edu.ng,09068318503,Male,400 Level,Department of Library and Information Science,Leadership,Graphic Design
+20/52HJ089,Muftiat,Olabimpe,muftiato@students.unilorin.edu.ng,08101620320,Female,400 Level,Department of Library and Information Science,Leadership,
+20/52HJ099,Rukayat,Gbemisola,20-52hj099@students.unilorin.edu.ng,08142349756,Female,400 Level,Department of Library and Information Science,Leadership,
+20/52HJ102,Aisha,Matanmi,suleimanaisha855@students.unilorin.edu.ng,09078254448,Female,400 Level,Department of Library and Information Science,Leadership,
+21/52HJ205,OLUWASEFUNMI,RACHEAL,21-52hj205@students.unilorin.edu.ng,08151620092,Female,400 Level,Department of Library and Information Science,Leadership,Web Development
+21/52HJ209,SHARON,OLAJUMOKE,sharon_2004.@students.unilorin.edu.ng,08101210089,Female,400 Level,Department of Library and Information Science,Leadership,
+21/52HJ220,ROSHEEDA,OPEYEMI,rosheeda@students.unilorin.edu.ng,09027270892,Female,400 Level,Department of Library and Information Science,Leadership,
+20/15CB007,Mariam,Eniola,anikeeniola@students.unilorin.edu.ng,07046497652,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Graphic Design
+20/15CB021,Emmanuel,Akorede,adeshinaemmanuel@students.unilorin.edu.ng,09024576804,Male,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Graphic Design
+20/15CB030,Oluwaseyifunmitan,Olushola,aikomoluwaseyifunmitan@students.unilorin.edu.ng,09025509828,Male,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Graphic Design
+20/15CB035,Oluwafemi,Daniel,femidaniel@students.unilorin.edu.ng,08105406861,Male,400 Level,Department of Linguistics & Nigerian Languages,Leadership,
+20/15CB047,Taiwo,Roqeebat,roqeebahtyy@students.unilorin.edu.ng,08134340655,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Graphic Design
+20/15CB062,Mariam,Atinuke,badmusatinuke5@gmail.com,08080195916,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Web Development
+20/15CB075,Boluwatife,Samson,olamilekansamson64@students.unilorin.edu.ng,09054175529,Male,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Web Development
+20/15CB078,Mariam,Morenikeji,mariamhameem8@gmail.com,08104170884,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,
+20/15CB091,Hiqmon,Monisola,morenikejihiqmon@students.unilorin.edu.ng,07065413351,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Web Development
+20/15CB098,Pelumi,Samson,obisesanpelumi8@students.unilorin.edu.ng,08155402032,Male,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Web Development
+20/15CB103,Tolulope,Elizabeth,tolulope@students.unilorin.edu.ng,08068906100,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Graphic Design
+20/15CB106,Sherifdeen,Temilola,olayanjusherifdeen4@students.unilorin.edu.ng,09066877972,Male,400 Level,Department of Linguistics & Nigerian Languages,Leadership,
+20/15CB115,Aisha,Opeyemi,21829429gf@students.unilorin.edu.ng,09014784740,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Web Development
+20/15CB129,Saudat,Bidemi,saudatbidemi@gmail.com,08143327967,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Graphic Design
+20/15CC012,Mary,Kehinde,kolawolemary@students.unilorin.edu.ng,07015781408,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,
+21/15CB273,GRACE,ADEBOLA,adewalegrace@students.unilorin.edu.ng,08105468604,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,
+21/15CB274,ADESEWA,ESTHER,adesewa+3@students.unilorin.edu.ng,08060877331,Female,400 Level,Department of Linguistics & Nigerian Languages,Leadership,Graphic Design
+20/66MG004,Abdulkareem,Olamide,abdulkareemolamide234@students.unilorin.edu.ng,09037652167,Male,400 Level,Department of Marketing,Leadership,Web Development
+20/66MG018,Baliqees,Titilope,titilopebaliqees@students.unilorin.edu.ng,09016416215,Female,400 Level,Department of Marketing,Leadership,Graphic Design
+20/66MG025,Fuad,Babatunde,adeduntanfuad@students.unilorin.edu.ng,07082253640,Male,400 Level,Department of Marketing,Leadership,
+20/66MG028,Racheal,Favour,20-66mg028@students.unilorin.edu.ng,09013349762,Female,400 Level,Department of Marketing,Leadership,
+20/66MG048,Oluwadamilola,Abisola,ajayi+5@students.unilorin.edu.ng,09027189575,Female,400 Level,Department of Marketing,Leadership,Graphic Design
+20/66MG056,Muhammed,Olasubomi,muhammedakanbi@students.unilorin.edu.ng,07038635291,Male,400 Level,Department of Marketing,Leadership,
+20/66MG063,Aishat,Eniola,akoredeaishat04@students.unilorin.edu.ng,09076074191,Female,400 Level,Department of Marketing,Leadership,Web Development
+20/66MG064,Azeez,Tobi,azeezakorede2021@students.unilorin.edu.ng,08052185665,Male,400 Level,Department of Marketing,Leadership,Graphic Design
+20/66MG072,Patrick,Oluwaseyi,patrickameh788@gmail.com,1+07031071223,Male,400 Level,Department of Marketing,Leadership,Graphic Design
+20/66MG087,Kikelomo,Feyisetan,kikelomofeyisetan77@students.unilorin.edu.ng,09033865045,Female,400 Level,Department of Marketing,Leadership,Web Development
+20/66MG114,Victory,Onize,victoryfriday20@students.unilorin.edu.ng,08145915786,Female,400 Level,Department of Marketing,Leadership,Web Development
+20/66MG116,Ayomide,Onawola,ayomide2003@students.unilorin.edu.ng,07012515779,Female,400 Level,Department of Marketing,Leadership,
+20/66MG130,Muhammad,Awwal,issaholaryinka23@students.unilorin.edu.ng,09058899253,Male,400 Level,Department of Marketing,Leadership,
+20/66MG148,Poki,Taofeek,pokitaofeek@students.unilorin.edu.ng,08186026973,Male,400 Level,Department of Marketing,Leadership,
+20/66MG152,Hikmat,Ayomide,muhammedhikmat01@students.unilorin.edu.ng,08140185275,Female,400 Level,Department of Marketing,Leadership,Graphic Design
+20/66MG158,Vivian,Chioma,nwaforvivian2003@students.unilorin.edu.ng,07014551986,Female,400 Level,Department of Marketing,Leadership,
+20/66MG170,Zaynab,Olamide,zainaboladejo@students.unilorin.edu.ng,08052921609,Female,400 Level,Department of Marketing,Leadership,
+20/66MG171,Mogbolahan,Ifeoluwapo,oladimejimogbolahan4@students.unilorin.edu.ng,08136522068,Male,400 Level,Department of Marketing,Leadership,Web Development
+20/66MG177,Victoria,Ayomide,victoriaolajugba969@students.unilorin.edu.ng,08024356461,Female,400 Level,Department of Marketing,Leadership,
+20/66MG199,Samuel,Chima,samuel+19@students.unilorin.edu.ng,08146325060,Male,400 Level,Department of Marketing,Leadership,Graphic Design
+20/66MG200,Oreoluwa,Ayodeji,oshooreoluwa2003@students.unilorin.edu.ng,08141846498,Male,400 Level,Department of Marketing,Leadership,Graphic Design
+20/66MG220,Kehinde,Paul,skenzypaul@students.unilorin.edu.ng,08080435002,Male,400 Level,Department of Marketing,Leadership,Graphic Design
+20/66MG221,Mariam,Bolanle,sheumariam681@gmail.com,07010079275,Female,400 Level,Department of Marketing,Leadership,Graphic Design
+20/66MG240,Moyinoluwa,Abiodun,moyinoluwa123@students.unilorin.edu.ng,07088699403,Male,400 Level,Department of Marketing,Leadership,
+20/66MG243,Muiz,Olayinka,yusufmuiz17@students.unilorin.edu.ng,08157032957,Male,400 Level,Department of Marketing,Leadership,Web Development
+21/66MG215,QUADRI,OLASUNKANMI,balogunquadri998@students.unilorin.edu.ng,08085585367,Male,400 Level,Department of Marketing,Leadership,
+21/66MG218,MOSADIOLUWA,OLUWATOSIN,isholamosadioluwa@students.unilorin.edu.ng,09037865757,Male,400 Level,Department of Marketing,Leadership,Graphic Design
+21/66MG221,Bashir,Opeyemi,opeyemi+50@students.unilorin.edu.ng,08146280813,Male,400 Level,Department of Marketing,Leadership,
+20/52HN002,Fatimoh,Dolapo,dolapomama96@students.unilorin.edu.ng,09016501504,Female,400 Level,Department of Mass Communication,Leadership,Web Development
+20/52HN003,Neemat,Enitan.,nabdulmajeed@students.unilorin.edu.ng,08145650472,Female,400 Level,Department of Mass Communication,Leadership,
+20/52HN017,Joel,Oluwasemilore,ajiboyej@students.unilorin.edu.ng,08089890642,Male,400 Level,Department of Mass Communication,Leadership,
+20/52HN040,Micheal,Damilola,michealfowowe92@students.unilorin.edu.ng,08140240109,Male,400 Level,Department of Mass Communication,Leadership,
+20/52HN046,Jessica,Efueosi,wura.jessica@students.unilorin.edu.ng,08056629938,Female,400 Level,Department of Mass Communication,Leadership,Web Development
+20/52HN051,Clara,Opeyemi,20980034gf@students.unilorin.edu.ng,08064347097,Female,400 Level,Department of Mass Communication,Leadership,
+20/52HN055,Hannah,Boluwatife,oladelehannahboluwatife2020@students.unilorin.edu.ng,08121706982,Female,400 Level,Department of Mass Communication,Leadership,
+20/52HN061,Ponmile,Olatomiwa,20-52hn061@students.unilorin.edu.ng,08159642063,Female,400 Level,Department of Mass Communication,Leadership,
+20/52HN064,Elizabeth,Ajayi,oluwaseyie@students.unilorin.edu.ng,08153604948,Female,400 Level,Department of Mass Communication,Leadership,
+21/52HN155,BARAKAT,ONAOLAPO,barakatabdulraheem@students.unilorin.edu.ng,07085253410,Female,400 Level,Department of Mass Communication,Leadership,
+21/52HN165,Raheemah,Titilayomi,alabi+12@students.unilorin.edu.ng,09047127315,Female,400 Level,Department of Mass Communication,Leadership,Web Development
+21/52HN169,KEHINDE,DAMILARE,ayoolakenny13@students.unilorin.edu.ng,07084263901,Male,400 Level,Department of Mass Communication,Leadership,
+21/52HN173,AYOMIDE,OLUWATUNMISE,ayomide+65@students.unilorin.edu.ng,08147387161,Female,400 Level,Department of Mass Communication,Leadership,Graphic Design
+21/52HN187,ABIMBOLA,MOJISOLA,abimbola+7@students.unilorin.edu.ng,08189274524,Female,400 Level,Department of Mass Communication,Leadership,Graphic Design
+21/52HN197,MARIAM,OMOTOSHO,usman+7@students.unilorin.edu.ng,07081213420,Female,400 Level,Department of Mass Communication,Leadership,
+20/56EB005,Qoyum,Abolore,lateefqoyum10@students.unilorin.edu.ng,08107059723,Male,400 Level,Department of Mathematics,Leadership,
+20/56EB009,Fatimah,Ayobami,fatimahabdurrazaqayobami@gmail.com,08063092854,Female,400 Level,Department of Mathematics,Leadership,Graphic Design
+20/56EB011,Daniel,Adedolapo,abimboladanieladedolapo@students.unilorin.edu.ng,09071825924,Male,400 Level,Department of Mathematics,Leadership,
+20/56EB013,Hawau,Olamide,20-56eb013@students.unilorin.edu.ng,08129614067,Female,400 Level,Department of Mathematics,Leadership,Web Development
+20/56EB044,Quadri,Temitope,ariyoquadri12@gmail.com,09042635962,Male,400 Level,Department of Mathematics,Leadership,
+20/56EB048,Olugbenga,Michael,babalolagbenga04@students.unilorin.edu.ng,08130045763,Male,400 Level,Department of Mathematics,Leadership,Web Development
+20/56EB068,Opeyemi,Oluwatimileyin,jenrolaopeyemioluwatimileyin@students.unilorin.edu.ng,07042547014,Male,400 Level,Department of Mathematics,Leadership,
+20/56EB072,Anuoluwapo,Samson,20-56eb072@students.unilorin.edu.ng,08134353556,Male,400 Level,Department of Mathematics,Leadership,
+20/56EB079,Muhammad,Munabau,muritalamuhammad@students.unilorin.edu.ng,07017620423,Male,400 Level,Department of Mathematics,Leadership,
+20/56EB087,Segun,Jeleel,segunjeleel@students.unilorin.edu.ng,07038914681,Male,400 Level,Department of Mathematics,Leadership,Web Development
+20/56EB106,Anuoluwapo,Gbenga,anuoluwapo+3@students.unilorin.edu.ng,09090839609,Male,400 Level,Department of Mathematics,Leadership,Graphic Design
+20/56EB121,Uthman,Moyosore,uthmanmoyosore@students.unilorin.edu.ng,08116242885,Male,400 Level,Department of Mathematics,Leadership,
+21/56EB096,SAJIDAT,MOTUNRAYO,sajidat@students.unilorin.edu.ng,08096854975,Female,400 Level,Department of Mathematics,Leadership,Web Development
+19/32TA002,Fatimah,Folakemi,19-32ta002@students.unilorin.edu.ng,09060191592,Female,400 Level,Department of Microbiology,Leadership,
+19/55EJ153,Peace,Adedoyin,19-55ej153@students.unilorin.edu.ng,07048774142,Female,400 Level,Department of Microbiology,Leadership,
+20/21PN023,MuhZ,Olaloye,aliyumuhz@students.unilorin.edu.ng,08038285807,Male,400 Level,Department of Microbiology,Leadership,
+20/21PN101,RILWAN,BAMIDELE,ibrahimrilwan@students.unilorin.edu.ng,09078923768,Male,400 Level,Department of Microbiology,Leadership,
+20/55DZ007,Muslimah,Abubakar,21216992ca@students.unilorin.edu.ng,09049641586,Female,400 Level,Department of Microbiology,Leadership,Graphic Design
+20/55DZ064,Ayomide,Praise,onifadeayomideprais@students.unilorin.edu.ng,09076268895,Male,400 Level,Department of Microbiology,Leadership,
+20/55EJ020,Olawumi,Gloria,abidoye.o@students.unilorin.edu.ng,08103889556,Female,400 Level,Department of Microbiology,Leadership,Graphic Design
+20/55EJ048,Mutiu,Kehinde,mutiuadeola11@students.unilorin.edu.ng,09022067048,Male,400 Level,Department of Microbiology,Leadership,Web Development
+20/55EJ050,Emmanuel,Anuoluwapo,emmanuelauthor2401@students.unilorin.edu.ng,08152428340,Male,400 Level,Department of Microbiology,Leadership,
+20/55EJ061,Precious,Onyemowo,agadaprecious@students.unilorin.edu.ng,08105281412,Female,400 Level,Department of Microbiology,Leadership,
+20/55EJ072,Temilade,Ajoke,temilade+2@students.unilorin.edu.ng,09079970529,Female,400 Level,Department of Microbiology,Leadership,Graphic Design
+20/55EJ073,Samuel,Toluwanimi,ajidesamuel@students.unilorin.edu.ng,07085640748,Male,400 Level,Department of Microbiology,Leadership,
+20/55EJ083,Ayomide,Sodiq,alabi+5@students.unilorin.edu.ng,07089658465,Male,400 Level,Department of Microbiology,Leadership,Graphic Design
+20/55EJ092,Naimat,Bimbo,naimatarikewushola@students.unilorin.edu.ng,09015866318,Female,400 Level,Department of Microbiology,Leadership,
+20/55EJ094,Samuel,Oluwatobi,patob.sneh2020@students.unilorin.edu.ng,08130957496,Male,400 Level,Department of Microbiology,Leadership,
+20/55EJ115,Titilayo,Adejoke,ekundayotitilayo@students.unilorin.edu.ng,08107367703,Female,400 Level,Department of Microbiology,Leadership,Web Development
+20/55EJ128,Hammed,Kisira,hassanhammed1120@students.unilorin.edu.ng,09075791120,Male,400 Level,Department of Microbiology,Leadership,
+20/55EJ131,Waliyullahi,Akorede,20-55ej131@students.unilorin.edu.ng,09033134137,Male,400 Level,Department of Microbiology,Leadership,
+20/55EJ132,Ololade,Hikmat,temiladeololade413@students.unilorin.edu.ng,09032459399,Female,400 Level,Department of Microbiology,Leadership,Web Development
+20/55EJ144,Bona,Kuburat,stdunilorin2017+3@students.unilorin.edu.ng,09024722913,Female,400 Level,Department of Microbiology,Leadership,Graphic Design
+20/55EJ160,Abdullahi,Audu,abdullahiaudu2457@students.unilorin.edu.ng,09039440377,Male,400 Level,Department of Microbiology,Leadership,Graphic Design
+20/55EJ163,Mashood,Danmairomu,students.unilorin.edu.ng+9@students.unilorin.edu.ng,07041714336,Male,400 Level,Department of Microbiology,Leadership,Web Development
+20/55EJ184,Joy,Ehi,okemsjoy@students.unilorin.edu.ng,08121517815,Female,400 Level,Department of Microbiology,Leadership,Web Development
+20/55EJ186,Joy,Boboola,joyousokoro@students.unilorin.edu.ng,07039372919,Female,400 Level,Department of Microbiology,Leadership,
+20/55EJ208,Wonder,Olaonipekun,oloruntobawonder@students.unilorin.edu.ng,07015733053,Female,400 Level,Department of Microbiology,Leadership,Web Development
+20/55EJ212,Olasunkanmi,Benjamin,olasunkanmi518@students.unilorin.edu.ng,09039701839,Male,400 Level,Department of Microbiology,Leadership,
+20/55EJ228,Fathia,Aramide,rafiufathia004@gmail.com,08135097756,Female,400 Level,Department of Microbiology,Leadership,
+20/55EJ233,Aliyu,Mashood,salaudeenaliyu@students.unilorin.edu.ng,08118995133,Male,400 Level,Department of Microbiology,Leadership,Graphic Design
+20/55EJ239,Mumeenah,Ajoke,shehuabdulrazaq.ma@students.unilorin.edu.ng,07062874572,Female,400 Level,Department of Microbiology,Leadership,Graphic Design
+20/55EJ252,Veronica,Oluwabukunmi,veronicayisau@students.unilorin.edu.ng,09059403518,Female,400 Level,Department of Microbiology,Leadership,
+20/55EJ290,PRECIOUS,ADEOLA,josephprecious023@students.unilorin.edu.ng,08069321005,Female,400 Level,Department of Microbiology,Leadership,Graphic Design
+20/55EJ295,MISTURAH,AJOKE,muhydeenmisturahajoke@students.unilorin.edu.ng,1+09064197840,Female,400 Level,Department of Microbiology,Leadership,
+21/55EJ263,FATIMOH,OYEBOLA,amusanfatimoh@students.unilorin.edu.ng,09023136879,Female,400 Level,Department of Microbiology,Leadership,
+21/55EJ275,Teslimah,Tolulope,teslimahlawal12@students.unilorin.edu.ng,07089783174,Female,400 Level,Department of Microbiology,Leadership,Graphic Design
+21/55EJ281,TOLULOPE,ESTHER,tolulopeesther@students.unilorin.edu.ng,09065742465,Female,400 Level,Department of Microbiology,Leadership,Graphic Design
+21/55EJ298,JEMIMAH,MORAYO-OLUWA,jemimahotepola007@students.unilorin.edu.ng,08130993330,Female,400 Level,Department of Microbiology,Leadership,Graphic Design
+19/15CF092,Sylvia,Oluwadamilola,19-15cf092@students.unilorin.edu.ng,09068771555,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF002,Fatimoh,Omolola,fatimohabdulazeez88@students.unilorin.edu.ng,8+08172921481,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF007,Alice,Toluwalogo,lissbaby02@gmail.com,08167818551,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF012,Olayinka,Adeyemi,adebayoolayinka130@students.unilorin.edu.ng,08052846589,Male,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF028,Emmanuel,Oluwajuwon,adetomiwaolab1@students.unilorin.edu.ng,07058767302,Male,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF038,Abayomi,Matthew,20-15cf038@students.unilorin.edu.ng,08143949456,Male,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF039,Praise,Oyindamola,21884609ef@students.unilorin.edu.ng,08137286791,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF061,Zainab,Olamide,zainabolami525@students.unilorin.edu.ng,08062122999,Female,400 Level,Department of Performing and Film Arts,Leadership,Graphic Design
+20/15CF066,Faizah,Omokehinde,babalolafaizahomokehinde@students.unilorin.edu.ng,09021045886,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF068,Okikiola,Daniel,danielokiki618@students.unilorin.edu.ng,08087748467,Male,400 Level,Department of Performing and Film Arts,Leadership,Graphic Design
+20/15CF073,Chibueze,Pascal,chibuezepascal2001@students.unilorin.edu.ng,08132782256,Male,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF079,Khadijat,Morayo,khadijatmorayo@students.unilorin.edu.ng,09076657301,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF094,Gift,Ukeh-Ulim,giftinyamagem@students.unilorin.edu.ng,09082052679,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF115,Oluwatunmise,Leonard,obanuretunmise04@students.unilorin.edu.ng,09070241106,Male,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF128,Boluwatife,Ifeoluwa,boluwatife+2@students.unilorin.edu.ng,08130654394,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF131,Samuel,Oyeyinka,oladokunsamuel60@students.unilorin.edu.ng,08163646366,Male,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF133,Anna,Christopher,olajideanna@students.unilorin.edu.ng,09011820519,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF145,Peace,Adeolu,oluwaremipeace@students.unilorin.edu.ng,08168767315,Male,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF158,Oyindamola,Rukayat,salauoyindamola@students.unilorin.edu.ng,08055220210,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF161,Batimi,Iyabo,simoniyabo@students.unilorin.edu.ng,08133874180,Female,400 Level,Department of Performing and Film Arts,Leadership,
+20/15CF173,Zainab,Opeyemi,zainabyekini169@students.unilorin.edu.ng,08087211833,Female,400 Level,Department of Performing and Film Arts,Leadership,
+21/15CF247,Wuraola,Esther,leegold183@gmail.com,08057042656,Female,400 Level,Department of Performing and Film Arts,Leadership,
+21/15CF255,DEBORAH,OMOLADE,omolade11@students.unilorin.edu.ng,09036498434,Female,400 Level,Department of Performing and Film Arts,Leadership,
+21/15CF264,DAVID,OLUWAGBENGA,oluwalanadavid@students.unilorin.edu.ng,08121576035,Male,400 Level,Department of Performing and Film Arts,Leadership,Web Development
+19/56ED049,Muiz,Ayotunde,19-56ed049@students.unilorin.edu.ng,08028022458,Male,400 Level,Department of Physics,Leadership,
+20/56ED005,Rokib,Bolaji,abdulrafiukozarh@students.unilorin.edu.ng,08140220228,Male,400 Level,Department of Physics,Leadership,
+20/56ED011,Barakat,Oluwadamilola,barakatadedamola401@students.unilorin.edu.ng,08123193541,Female,400 Level,Department of Physics,Leadership,Graphic Design
+20/56ED013,Tosin,Elijah,tosinadefila12@gmail.com,09068778753,Male,400 Level,Department of Physics,Leadership,
+20/56ED018,Oladimeji,Destiny,aderemipoi5@students.unilorin.edu.ng,08064607005,Male,400 Level,Department of Physics,Leadership,
+20/56ED055,Adoration,Mayowa,jeremiahadoration@students.unilorin.edu.ng,08071362538,Male,400 Level,Department of Physics,Leadership,
+20/56ED096,Abibat,Yetunde,abibatsulaimon09@gmail.com,09013628790,Female,400 Level,Department of Physics,Leadership,Graphic Design
+20/56ED105,Yusuf,Taiwo,yusuftaiwo+1@students.unilorin.edu.ng,08027331841,Male,400 Level,Department of Physics,Leadership,
+19/48KC002,Taofeek,Akanni,19-48kc002@students.unilorin.edu.ng,09023169099,Male,400 Level,Department of Physiology,Leadership,Web Development
+20/46KB012,Ashraf,Adelowo,ashraf@students.unilorin.edu.ng,08142365946,Male,400 Level,Department of Physiology,Leadership,Graphic Design
+20/46KB026,Opeyemi,Faith,20-46kb026@students.unilorin.edu.ng,08077474518,Female,400 Level,Department of Physiology,Leadership,Web Development
+20/46KB028,Favour,Oluwadarasimi,favouraduwo@students.unilorin.edu.ng,09061268421,Male,400 Level,Department of Physiology,Leadership,
+20/46KB037,Oluwasemilore,Rebecca,akilapasemilore@students.unilorin.edu.ng,08060300463,Female,400 Level,Department of Physiology,Leadership,Web Development
+20/46KB057,Favour,Chioma,20-46kb057@students.unilorin.edu.ng,09045118736,Female,400 Level,Department of Physiology,Leadership,Graphic Design
+20/46KB060,Oluwatimilehin,Jonathan,oluwatimilehin+1@students.unilorin.edu.ng,08127744583,Male,400 Level,Department of Physiology,Leadership,
+20/46KB073,Muhammed,Dolapo,isamuha247@students.unilorin.edu.ng,07014195469,Male,400 Level,Department of Physiology,Leadership,Graphic Design
+20/46KB099,Grace,Folashade,20-46kb099@students.unilorin.edu.ng,08154560257,Female,400 Level,Department of Physiology,Leadership,Graphic Design
+20/46KB111,Tunde,Davidson,20-46kb111@students.unilorin.edu.ng,07065317210,Male,400 Level,Department of Physiology,Leadership,Web Development
+20/46KB118,Peter,Ayomide,owolabipeterayomide@students.unilorin.edu.ng,07064692138,Male,400 Level,Department of Physiology,Leadership,Web Development
+20/46KB125,Abdulazeez,Opeyemi,rajiabdulazeez79@students.unilorin.edu.ng,08183488624,Male,400 Level,Department of Physiology,Leadership,Graphic Design
+20/46KB140,Ibrahim,Aduagba,20-46kb140@students.unilorin.edu.ng,09077113179,Male,400 Level,Department of Physiology,Leadership,Web Development
+21/46KB152,Moyinoluwa,Catherine,21-46kb152@students.unilorin.edu.ng,09047895830,Female,400 Level,Department of Physiology,Leadership,Graphic Design
+21/46KB163,Promise,Funmilayo,promise+6@students.unilorin.edu.ng,09055432543,Female,400 Level,Department of Physiology,Leadership,Graphic Design
+18/56ED047,Peter,Kehinde,kaywebkaywebkayweb@students.unilorin.edu.ng,08149974235,Male,400 Level,Department of Plant Biology,Leadership,
+18/56EE092,ADIJAT,MODUPEOLUWA,adijat123_@students.unilorin.edu.ng,09049688348,Female,400 Level,Department of Plant Biology,Leadership,
+19/55EI024,Oluwatomiwa,Ayomide,19-55ei024@students.unilorin.edu.ng,07038640737,Male,400 Level,Department of Plant Biology,Leadership,
+19/55EI094,Rasheed,Oluwatobi,19-55ei094@students.unilorin.edu.ng,08061380282,Male,400 Level,Department of Plant Biology,Leadership,Web Development
+20/55EI018,Uthman,Ayomide,youngstar3310@students.unilorin.edu.ng,08107644772,Male,400 Level,Department of Plant Biology,Leadership,
+20/55EI030,Simbiat,Boluwatife,simbiat+2@students.unilorin.edu.ng,07081907834,Female,400 Level,Department of Plant Biology,Leadership,Graphic Design
+20/55EI035,Sumayat,Oyinkansola,sumayatakosile@students.unilorin.edu.ng,08023089142,Female,400 Level,Department of Plant Biology,Leadership,Web Development
+20/55EI043,Musharof,Abolade,musharofanimasaun@students.unilorin.edu.ng,08124435905,Male,400 Level,Department of Plant Biology,Leadership,
+20/55EI053,Kerimot,Nifemi,azeezkerimot@students.unilorin.edu.ng,08109527231,Female,400 Level,Department of Plant Biology,Leadership,
+20/55EI073,Ibrahim,Dolapo,ibrahim+12@students.unilorin.edu.ng,08035037041,Male,400 Level,Department of Plant Biology,Leadership,Graphic Design
+20/55EI088,Ayomide,Jedidiah,martinsayomide2019@gmail.com,08108440246,Female,400 Level,Department of Plant Biology,Leadership,
+20/55EI095,Fathia,Opeyemi,fathiaopeyemi652@students.unilorin.edu.ng,07017565945,Female,400 Level,Department of Plant Biology,Leadership,
+20/55EI103,Alimat,Abiodun,alimatojomu33@students.unilorin.edu.ng,08183705130,Female,400 Level,Department of Plant Biology,Leadership,
+20/55EI104,Favour,Chinaza,favourokoroji94@gmail.com,08109895236,Female,400 Level,Department of Plant Biology,Leadership,
+20/55EI105,Glory,Olalekan,gloryolalekan591@students.unilorin.edu.ng,07034618597,Male,400 Level,Department of Plant Biology,Leadership,Graphic Design
+20/55EI111,Tajudeen,Olajide,olaniyanolajidetajudeen@students.unilorin.edu.ng,07019591149,Male,400 Level,Department of Plant Biology,Leadership,
+20/55EI139,Fatimat,Titilope,titilope+1@students.unilorin.edu.ng,09012312076,Female,400 Level,Department of Plant Biology,Leadership,Web Development
+20/55EI140,Abubakar,Saad,solihuabubakarsaad@students.unilorin.edu.ng,08087958488,Male,400 Level,Department of Plant Biology,Leadership,
+20/55EI176,SEKINAT,OMOTOYOSI,20-55ei176@students.unilorin.edu.ng,08145040992,Female,400 Level,Department of Plant Biology,Leadership,
+21/55EI179,HALIMAT,OLUWAKEMI,ahmed+13@students.unilorin.edu.ng,08169210343,Female,400 Level,Department of Plant Biology,Leadership,
+20/77JC001,Barakat,Ayomide,barakatabdulraheem64@gmail.com,09018874100,Female,400 Level,Department of Political Science,Leadership,
+20/77JC008,Isaiah,Toluwani.,adekeyeisaiah16@students.unilorin.edu.ng,07010203929,Male,400 Level,Department of Political Science,Leadership,Web Development
+20/77JC010,Baseet,Gbolahan,basitgbolahan39@gmail.com,09011905696,Male,400 Level,Department of Political Science,Leadership,
+20/77JC037,Ismail,Opeyemi,jamiuismailopeyemi@students.unilorin.edu.ng,07045123044,Male,400 Level,Department of Political Science,Leadership,
+20/77JC040,Basit,Damilare,21421896hf@students.unilorin.edu.ng,07019031338,Male,400 Level,Department of Political Science,Leadership,Graphic Design
+20/77JC046,Oluwadamilare,Inioluwa,21646832af@students.unilorin.edu.ng,08069540134,Male,400 Level,Department of Political Science,Leadership,
+21/77JC182,Babatunde,Olamide,babatunde+16@students.unilorin.edu.ng,08148270509,Male,400 Level,Department of Political Science,Leadership,Graphic Design
+21/77JC185,MUIZ,OLOLADE,tijani+5@students.unilorin.edu.ng,08147508570,Male,400 Level,Department of Political Science,Leadership,
+20/77JE022,Abiodun,Elizabeth,abiodunajayi222@gmail.com,07036801191,Female,400 Level,Department of Psychology,Leadership,
+20/77JE024,Amidat,Iyanuoluwa,akinbamiro.ai@students.unilorin.edu.ng,08132914626,Female,400 Level,Department of Psychology,Leadership,
+20/77JE029,Zainab,Morayo,zainabazeezmorayo@students.unilorin.edu.ng,08129469960,Female,400 Level,Department of Psychology,Leadership,Graphic Design
+20/77JE047,Lateefah,Jadesola,jadesola+1@students.unilorin.edu.ng,08162192440,Female,400 Level,Department of Psychology,Leadership,Graphic Design
+20/77JE077,Barakat,Bolanle,yusufbarakat63@gmail.com,08154758365,Female,400 Level,Department of Psychology,Leadership,Graphic Design
+21/77JE070,MARY,OVAYOZA,adanomary@students.unilorin.edu.ng,09082693342,Female,400 Level,Department of Psychology,Leadership,Graphic Design
+20/66RM004,Victory,Ojonugwa,achemvictory@gmail.com,07067400849,Female,400 Level,Department of Public Administration,Leadership,Web Development
+20/66RM015,Oluwafunmilayo,Deborah,oluwafunmilayodeborah2021@students.unilorin.edu.ng,07055294044,Female,400 Level,Department of Public Administration,Leadership,Graphic Design
+20/66RM016,Abolaji,Quareeb,21447740ff@students.unilorin.edu.ng,07058765245,Male,400 Level,Department of Public Administration,Leadership,
+20/66RM034,Charles,Olalekan,charles@students.unilorin.edu.ng,07062297329,Male,400 Level,Department of Public Administration,Leadership,Graphic Design
+20/66RM048,Muhyideen,Bayonle,bayonle_olaifa@students.unilorin.edu.ng,07016218134,Male,400 Level,Department of Public Administration,Leadership,Web Development
+20/66RM049,Mariam,Imoleayo,imoleayo1104@students.unilorin.edu.ng,09029573344,Female,400 Level,Department of Public Administration,Leadership,
+20/66RM050,Abdulrazak,Olawale,olapaderazak2020@students.unilorin.edu.ng,09065946492,Male,400 Level,Department of Public Administration,Leadership,
+20/66RM055,Favour,Omoniyi,roland1999@students.unilorin.edu.ng,09025766573,Female,400 Level,Department of Public Administration,Leadership,
+20/66RM060,Taiwo,Oreoluwa,taiwo123@students.unilorin.edu.ng,07082072274,Female,400 Level,Department of Public Administration,Leadership,
+21/66RM141,IBRAHIM,OLAMILEKAN,ibrahim+48@students.unilorin.edu.ng,08181725360,Male,400 Level,Department of Public Administration,Leadership,Web Development
+20/15CH017,Isaac,Olumide,irukeraolumide@students.unilorin.edu.ng,09032571720,Male,400 Level,Department of Religions,Leadership,Graphic Design
+20/15CH025,Victor,Somto,odidikavictor@students.unilorin.edu.ng,08141919804,Male,400 Level,Department of Religions,Leadership,
+20/15CH031,Peace,Olawummi,olayemipeace681@students.unilorin.edu.ng,09036943285,Female,400 Level,Department of Religions,Leadership,
+20/15CI009,Mutmoinat,Adesola,abdulquadir@students.unilorin.edu.ng,08062509150,Female,400 Level,Department of Religions,Leadership,Graphic Design
+20/15CI010,Abdulbasit,Ayobami,abdulbasitayorbami9@students.unilorin.edu.ng,07063472976,Male,400 Level,Department of Religions,Leadership,Graphic Design
+20/15CI031,Saheed,Olalekan,ajanisaheedolalekan@students.unilorin.edu.ng,09067042217,Male,400 Level,Department of Religions,Leadership,Graphic Design
+20/15CI055,Nihimatallahi,Jumai,isiaqjumai@students.unilorin.edu.ng,08140216668,Female,400 Level,Department of Religions,Leadership,Graphic Design
+20/15CI060,Jamiu,Adegoke,iyanda+1@students.unilorin.edu.ng,08075403943,Male,400 Level,Department of Religions,Leadership,
+20/15CI074,Aishat,Ayomide,20-15ci074@students.unilorin.edu.ng,08135718213,Female,400 Level,Department of Religions,Leadership,Graphic Design
+20/15CI086,Abdr-Rahamon,Mujahid,olanipekunabd@gmail.com,09065380826,Male,400 Level,Department of Religions,Leadership,
+20/15CI093,Fodilat,Busayo,owolabi+1@students.unilorin.edu.ng,08166735867,Female,400 Level,Department of Religions,Leadership,Graphic Design
+20/15CI100,Muzzammil,Bolakale,smb4assaady@students.unilorin.edu.ng,09069266821,Male,400 Level,Department of Religions,Leadership,
+20/15CI107,Faridah,Funmilayo,fareedahs393@gmail.com,08083622106,Female,400 Level,Department of Religions,Leadership,Web Development
+20/15CI121,Habeebullahi,Oluwatoyosi,zakariyah@students.unilorin.edu.ng,08166260148,Male,400 Level,Department of Religions,Leadership,Web Development
+20/15CJ022,Wisdom,Alex,wisdom+1@students.unilorin.edu.ng,08170888492,Male,400 Level,Department of Religions,Leadership,
