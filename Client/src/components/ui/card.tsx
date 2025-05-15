@@ -1,7 +1,7 @@
 import * as React from "react";
 
 import { cn } from "@/lib/utils";
-import { Reveal1 } from "@/app/components/animations/Text";
+import { Reveal } from "@/app/components/animations/Text";
 
 const Card = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDivElement>>(({ className, ...props }, ref) => (
   <div ref={ref} className={cn("rounded-lg border bg-card text-card-foreground shadow-sm", className)} {...props} />
@@ -58,9 +58,9 @@ const LandingTitle = ({ text, title, header }: any) => {
     <div className='flex mx-auto flex-col justify-between items-center gap-[10px]'>
       {text && <p className='text-[12px] md:text-[14px] text-gray-700'>{text}</p>}
       <h2 className='text-center'>{title}</h2>
-      <Reveal1>
+      <Reveal>
         <p className='max-w-[522px] text-center'>{header}</p>
-      </Reveal1>
+      </Reveal>
     </div>
   );
 };
